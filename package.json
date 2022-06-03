@@ -18,6 +18,8 @@
   "homepage": "https://github.com/eabdulk1/comp229-week2-005#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "hello.js": "^1.0.0",
+    "server.js": "^1.0.0",
     "update": "^0.7.4"
   }
 }
